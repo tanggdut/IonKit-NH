@@ -13,3 +13,5 @@ a MATLAB-based toolkit for ionospheric detection of natural hazard
   [1]Tang L. Ionospheric disturbances of the January 15, 2022, Tonga volcanic eruption observed using the GNSS network in New Zealand[J]. GPS Solutions. 2023, 27(1): 53.
   
   [2]Tang L, Li Z, Zhou B. Large-area tsunami signatures in ionosphere observed by GPS TEC after the 2011 Tohoku earthquake[J]. GPS Solutions. 2018, 22(4): 93.
+
+  [3]Tang L. IonKit-NH: a MATLAB-based toolkit for ionospheric detection of earthquake, tsunami and volcanic eruption[J]. Earthquake Research Advances, 2024: 100353.
